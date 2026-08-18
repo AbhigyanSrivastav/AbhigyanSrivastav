@@ -23,8 +23,6 @@ Software Engineer @ HumansHere. I ship code and contribute it back. Going Bit by
 
 ## 📊 Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhigyanSrivastav/AbhigyanSrivastav/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhigyanSrivastav/AbhigyanSrivastav/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Heatmap" src="https://raw.githubusercontent.com/AbhigyanSrivastav/AbhigyanSrivastav/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhigyanSrivastav&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</div>
