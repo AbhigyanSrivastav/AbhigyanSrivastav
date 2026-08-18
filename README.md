@@ -23,4 +23,4 @@ Software Engineer @ HumansHere. I ship code and contribute it back. Going Bit by
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AbhigyanSrivastav&theme=radical)
