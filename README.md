@@ -23,6 +23,4 @@ Software Engineer @ HumansHere. I ship code and contribute it back. Going Bit by
 
 ## 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbhigyanSrivastav&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="60%" />
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
