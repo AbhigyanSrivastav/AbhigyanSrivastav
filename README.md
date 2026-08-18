@@ -24,6 +24,5 @@ Software Engineer @ HumansHere. I ship code and contribute it back. Going Bit by
 ## 📊 Stats
 
 <div align="center">
-<img src="https://ghchart.rshah.org/AbhigyanSrivastav" alt="Abhigyan's GitHub contribution heatmap" width="80%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbhigyanSrivastav&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="60%" />
 </div>
-
