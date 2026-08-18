@@ -24,5 +24,5 @@ Software Engineer @ HumansHere. I ship code and contribute it back. Going Bit by
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhigyanSrivastav&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=AbhigyanSrivastav&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </div>
