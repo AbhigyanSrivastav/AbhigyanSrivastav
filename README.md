@@ -21,3 +21,6 @@ Software Engineer @ HumansHere. I ship code and contribute it back. Going Bit by
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
+## 📊 Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhigyanSrivastav&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
